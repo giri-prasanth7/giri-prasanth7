@@ -1,1 +1,0 @@
-start chrome.exe "https://teams.microsoft.com/" 
