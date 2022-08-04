@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @giri-prasanth7
-- 👀 I’m interested in 
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on some project
 - 📫 How to reach me on instagram _.giri_prasanth._
